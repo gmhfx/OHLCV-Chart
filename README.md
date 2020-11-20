@@ -22,7 +22,7 @@ https://pro.coinbase.com/trade/BTC-USD
 
 Chart showing open, high, low, close 1-minute candles with volume subplot for BTCUSD
 
-https://gmhfx.github.io/SP500/
+https://gmhfx.github.io/OHLCV-Chart/
 
 ### Contact
 
